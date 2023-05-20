@@ -1,0 +1,19 @@
+tr{
+    font-size: 18px;
+    font-size: 600;
+    width: 100%;
+}
+
+td{
+    padding: 20px 15px;
+    border-bottom: 1px solid #fff;
+    white-space: nowrap;
+}
+
+td img{
+    width: 45px;
+}
+
+td:first-child,td:last-child {
+    width: 1%;
+}
